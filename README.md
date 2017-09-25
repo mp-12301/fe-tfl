@@ -19,4 +19,4 @@ npm install
 npm start                   # start server (by default at http://localhost:8080)
 npm run start:dashboard     # start server using webpack-dashboard
 npm run build               # production build (remember to build with NODE_ENV=production)
-``
+```
